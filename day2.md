@@ -12,6 +12,13 @@
 ##### def initializa (thuoctinh1, thuoctinh2.....) : hàm khởi tạo
 ##### class1 < class2: kế thừa (dấu " < " ) 
 ##### module: là tập hợp các methods, constant, biến muốn sử dụng  khi được gọi đến (khai bào module: ten)
-##### include : 	
+##### include  	
 ##### extend
 ##### prepend
+
+#### 3. String (chuỗi) 
+##### put String [] // [n] : in ra phần tử thứ n [-1] : in ra phần tử cuối // [0, 2] : in ra 2 phần tử từ phần tử 0// [0..2] : in ra phần tử từ 0 đến 2 // [0, string.length] : in ra phần tử từ 0 đến hết chuỗi
+#### 4.Mảng 
+##### Arr["a","c","b","d","e"]: khởi tạo
+##### Arr.each do |a| puts  a : show các phần tử mảng a // Arr[0..2].each do |a| : show ra màn hình phần tử 0 đến 2 .................
+###### concat để nối mảng
