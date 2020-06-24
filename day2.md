@@ -17,7 +17,7 @@
 ##### prepend
 
 #### 3. String (chuỗi) 
-##### put String [] // [n] : in ra phần tử thứ n [-1] : in ra phần tử cuối // [0, 2] : in ra 2 phần tử từ phần tử 0// [0..2] : in ra phần tử từ 0 đến 2 // [0, string.length] : in ra phần tử từ 0 đến hết chuỗi
+##### put String [] // [n] : in ra phần tử thứ n [-n] : in ra phần tử đảo ngược thứ n // [0, 2] : in ra 2 phần tử từ phần tử 0// [0..2] : in ra phần tử từ 0 đến 2 // [0, string.length] : in ra phần tử từ 0 đến hết chuỗi
 #### 4.Mảng 
 ##### Arr["a","c","b","d","e"]: khởi tạo
 ##### Arr.each do |a| puts  a : show các phần tử mảng a // Arr[0..2].each do |a| : show ra màn hình phần tử 0 đến 2 .................
