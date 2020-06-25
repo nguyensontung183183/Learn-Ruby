@@ -10,7 +10,7 @@
 ### 2.Hàm xử lý ngoại lệ
 ##### Begin ___(khối lệnh thực thi)________ resure ________(sử lý ngoại lệ )__________end (Hàm xử lý ngoại lệ ) 
 ####	hàm thực thi từ begin nếu gặp lỗi thì chạy thẳng đến => resuare 
-##### demo:  [https://github.com/nguyensontung183183/Learn-Ruby/blob/master/demo-begin-rescue.rb](https://github.com/nguyensontung183183/Learn-Ruby/blob/master/demo-begin-rescue.rb)
+##### demo:  [Demo](https://github.com/nguyensontung183183/Learn-Ruby/blob/master/demo-begin-rescue.rb)
 ##### Raise: để gọi lỗi trong #Exceptions
 ##### retry : gọi lại hàm bắt đầu thực thi từ begin
 #####( Khác với if _______________ esle: khi *** "if thực thi bị lỗi thì chương trình sẽ dừng lại không thực thi qua esle"*** )
