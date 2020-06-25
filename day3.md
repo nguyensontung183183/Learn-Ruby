@@ -28,4 +28,4 @@
 ##### 1 dòng , viết giữa hai  dấu { và }
 ##### nhiều dòng, viết giữa do và end
 ##### gọi nó bằng yield
-##### ex: [https://github.com/nguyensontung183183/Learn-Ruby/blob/master/exBlock.rb](https://github.com/nguyensontung183183/Learn-Ruby/blob/master/exBlock.rb)
+##### ex: [https://github.com/nguyensontung183183/Learn-Ruby/blob/master/ex4.rb](https://github.com/nguyensontung183183/Learn-Ruby/blob/master/exBlock.rb)
