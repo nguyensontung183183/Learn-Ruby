@@ -1,4 +1,3 @@
-
 begin
     p "Enter password"
     password = gets.chomp

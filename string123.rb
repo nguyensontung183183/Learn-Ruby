@@ -39,4 +39,4 @@ end
 puts Persons()
 str = ClassStringEx.new
 str.mutilple_string("a", 4)
-str.check_string("if Hello")
+str.check_string(gets.chomp)

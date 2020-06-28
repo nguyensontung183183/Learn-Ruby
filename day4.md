@@ -13,7 +13,7 @@
 ##### demo:  [Demo](https://github.com/nguyensontung183183/Learn-Ruby/blob/master/demo-begin-rescue.rb)
 ##### Raise: để gọi lỗi trong #Exceptions
 ##### retry : gọi lại hàm bắt đầu thực thi từ begin
-#####( Khác với if _______________ esle: khi *** "if thực thi bị lỗi thì chương trình sẽ dừng lại không thực thi qua esle"*** )
+##### ( Khác với if _______________ esle: khi *** "if thực thi bị lỗi thì chương trình sẽ dừng lại không thực thi qua esle"*** )
 ### 3. Proc & Lambda
 ##### Proc dừng khi có giá trị return trả về và không quan tâm đối số truyền vào
 ##### Lambda giống như Proc nhưng không bị dừng khi gặp giá trị return trả về
