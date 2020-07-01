@@ -18,3 +18,17 @@
 ###### h.invert : đảo ngược key thành value, value thành key
 ##### h1.merge : hợp nhất mảng
 ##### a.rassoc 
+### STRING
+##### .capitalize : Trả về một bản sao của str với ký tự đầu tiên được chuyển thành chữ hoa và phần còn lại thành chữ thường. capitalize! (thay đổi giá trị của str ) , nếu kí tự đầu là chữ hoa thì trả về nil
+##### a.clear : Làm cho chuỗi trống.
+##### .concat () : để nối chuỗi string  . nếu giá trị truyền vào là int thì sẽ bị coi là một mật mã và được chuyển đổi thành một ký tự trước khi ghép.
+##### .delete : xoá phần tử 
+##### end_with? trả về true nếu như chuỗi kết thúc bằng 1 hậu tố đã cho
+##### `slice`: Để in hoặc làm việc với một số ký tự trong chuỗi, bạn có thể sử dụng phương thức `slice` để lấy phần bạn cần.
+##### `empty?` : Mọi ký tự, bao gồm các chữ cái, số, ký tự khoảng trắng và ký hiệu sẽ được tính, vì nó là một phần của chuỗi. Để check xem chuỗi đó có rỗng hay không, sử dụng phương thức "empty?
+##### `index` : return vị trí đầu tiên của kí tự đó trong chuỗi
+##### -`include?` : trả về true or false, kiểm tra xem kí tự có trong chuỗi không ?
+##### `start_with?` : trả về true/false (kiểm tra giá trị đầu ) // `end_with?` : trả về true/false (kt giá trị cuối )
+##### `sub`: thay thế từ muốn thay trong chuỗi nhưng chỉ thay ở vịt trí đầu tiên tìm thấy
+##### `gsub`: thay thế tất cả từ muốn thay trong chuỗi
+##### ( *** nếu muốn thay đổi ta có thể dùng `sub!` hoặc `gsub!` ***)
