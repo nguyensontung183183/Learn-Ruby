@@ -1,4 +1,4 @@
-def Arr_max(n)
+def arr_max(n)
   arr = [1,2,3,4,5]
   max = arr[0]
   for i in 1..arr.length do
@@ -13,4 +13,4 @@ def Arr_max(n)
     end
   end
 end
-print Arr_max(4)        
+print arr_max(4)        

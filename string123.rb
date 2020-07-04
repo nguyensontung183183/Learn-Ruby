@@ -16,7 +16,7 @@ class  ClassStringEx
   end
 end
 #==================================Ex3================================
-def Persons()
+def persons()
   puts "Input firstname: "
   firstname = gets.chomp
   puts "Input lastname: "
@@ -36,7 +36,7 @@ def Persons()
 end
 #==========================ex4=====================================
 
-puts Persons()
+puts persons()
 str = ClassStringEx.new
 str.mutilple_string("a", 4)
 str.check_string(gets.chomp)

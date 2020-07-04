@@ -1,4 +1,4 @@
-def File_info
+def file_info
     yield
     puts "Path:#{Path}"
     puts "Filename:#{Filename}"
@@ -8,7 +8,7 @@ def File_info
 
 end
 
-File_info do
+file_info do
     Path = File.absolute_path("ex4.rb")
     Filename = File.basename(Path)
     Basename = File.basename(Path, File.extname(Path))
